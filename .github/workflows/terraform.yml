@@ -1,5 +1,5 @@
 # This is the workflow to  get started with Actions
-name: 'Terraform-AWS-EC2
+name: 'Terraform-AWS-EC2'
 
 on:
   push:
